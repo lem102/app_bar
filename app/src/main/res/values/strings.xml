@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">actionBar</string>
+    <string name="about_button">ABOUT</string>
+    <string name="settings">SETTINGS</string>
+</resources>
